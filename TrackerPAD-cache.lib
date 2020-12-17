@@ -28,6 +28,33 @@ X Pin_6 6 -200 -300 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# WingCustomParts_M3MountLugHole
+#
+DEF WingCustomParts_M3MountLugHole M 0 40 Y Y 1 F N
+F0 "M" 150 100 50 H V C CNN
+F1 "WingCustomParts_M3MountLugHole" 275 -100 50 H V C CNN
+F2 "WingCustomParts:M3-Mount-Lug-Hole" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "PCB-69" 0 0 50 H I C CNN "Model"
+F5 "M3" 0 0 50 H I C CNN "Bolt Hole"
+F6 "6mm" 0 0 50 H I C CNN "Above PCB Height"
+F7 "9.3mm" 0 0 50 H I C CNN "Full Height"
+F8 "7.8mm" 0 0 50 H I C CNN "Above PCB Width"
+F9 "8.6mm" 0 0 50 H I C CNN "Full Width"
+F10 "6mm" 0 0 50 H I C CNN "Above PCB Length"
+F11 "6mm" 0 0 50 H I C CNN "Full Length"
+F12 "1.9mm" 0 0 50 H I C CNN "Foot Diam"
+F13 "7mm" 0 0 50 H I C CNN "Foot Width(ctc)"
+F14 "4.5mm" 0 0 50 H I C CNN "Foot Length(ctc)"
+F15 "2mm" 0 0 50 H I C CNN "Top to thread underside clearance"
+DRAW
+S 100 -50 175 -50 0 1 0 N
+S 100 50 100 -50 0 1 0 N
+S 100 50 175 50 0 1 0 N
+X mount ~ 0 0 100 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
 # WingCustomParts_ViveTracker
 #
 DEF WingCustomParts_ViveTracker U 0 40 Y Y 1 F N

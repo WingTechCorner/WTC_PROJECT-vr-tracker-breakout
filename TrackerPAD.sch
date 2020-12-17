@@ -166,4 +166,179 @@ Text GLabel 1210 4310 2    50   Input ~ 0
 TRACKPAD_SPACER
 Text GLabel 1210 4410 2    50   Input ~ 0
 MENU_SPACER
+$Comp
+L WingCustomParts:M3MountLugHole M1
+U 1 1 5FDAF3C3
+P 5215 1290
+F 0 "M1" H 5402 1515 50  0000 C CNN
+F 1 "M3MountLugHole" H 5402 1424 50  0000 C CNN
+F 2 "WingCustomParts:M3-Mount-Lug-Hole" H 5215 1290 50  0001 C CNN
+F 3 "" H 5215 1290 50  0001 C CNN
+F 4 "PCB-69" H 5215 1290 50  0001 C CNN "Model"
+F 5 "M3" H 5215 1290 50  0001 C CNN "Bolt Hole"
+F 6 "6mm" H 5215 1290 50  0001 C CNN "Above PCB Height"
+F 7 "9.3mm" H 5215 1290 50  0001 C CNN "Full Height"
+F 8 "7.8mm" H 5215 1290 50  0001 C CNN "Above PCB Width"
+F 9 "8.6mm" H 5215 1290 50  0001 C CNN "Full Width"
+F 10 "6mm" H 5215 1290 50  0001 C CNN "Above PCB Length"
+F 11 "6mm" H 5215 1290 50  0001 C CNN "Full Length"
+F 12 "1.9mm" H 5215 1290 50  0001 C CNN "Foot Diam"
+F 13 "7mm" H 5215 1290 50  0001 C CNN "Foot Width(ctc)"
+F 14 "4.5mm" H 5215 1290 50  0001 C CNN "Foot Length(ctc)"
+F 15 "2mm" H 5215 1290 50  0001 C CNN "Top to thread underside clearance"
+	1    5215 1290
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:M3MountLugHole M2
+U 1 1 5FDB02CF
+P 5260 1720
+F 0 "M2" H 5447 1945 50  0000 C CNN
+F 1 "M3MountLugHole" H 5447 1854 50  0000 C CNN
+F 2 "WingCustomParts:M3-Mount-Lug-Hole" H 5260 1720 50  0001 C CNN
+F 3 "" H 5260 1720 50  0001 C CNN
+F 4 "PCB-69" H 5260 1720 50  0001 C CNN "Model"
+F 5 "M3" H 5260 1720 50  0001 C CNN "Bolt Hole"
+F 6 "6mm" H 5260 1720 50  0001 C CNN "Above PCB Height"
+F 7 "9.3mm" H 5260 1720 50  0001 C CNN "Full Height"
+F 8 "7.8mm" H 5260 1720 50  0001 C CNN "Above PCB Width"
+F 9 "8.6mm" H 5260 1720 50  0001 C CNN "Full Width"
+F 10 "6mm" H 5260 1720 50  0001 C CNN "Above PCB Length"
+F 11 "6mm" H 5260 1720 50  0001 C CNN "Full Length"
+F 12 "1.9mm" H 5260 1720 50  0001 C CNN "Foot Diam"
+F 13 "7mm" H 5260 1720 50  0001 C CNN "Foot Width(ctc)"
+F 14 "4.5mm" H 5260 1720 50  0001 C CNN "Foot Length(ctc)"
+F 15 "2mm" H 5260 1720 50  0001 C CNN "Top to thread underside clearance"
+	1    5260 1720
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:M3MountLugHole M3
+U 1 1 5FDB051C
+P 5295 2185
+F 0 "M3" H 5482 2410 50  0000 C CNN
+F 1 "M3MountLugHole" H 5482 2319 50  0000 C CNN
+F 2 "WingCustomParts:M3-Mount-Lug-Hole" H 5295 2185 50  0001 C CNN
+F 3 "" H 5295 2185 50  0001 C CNN
+F 4 "PCB-69" H 5295 2185 50  0001 C CNN "Model"
+F 5 "M3" H 5295 2185 50  0001 C CNN "Bolt Hole"
+F 6 "6mm" H 5295 2185 50  0001 C CNN "Above PCB Height"
+F 7 "9.3mm" H 5295 2185 50  0001 C CNN "Full Height"
+F 8 "7.8mm" H 5295 2185 50  0001 C CNN "Above PCB Width"
+F 9 "8.6mm" H 5295 2185 50  0001 C CNN "Full Width"
+F 10 "6mm" H 5295 2185 50  0001 C CNN "Above PCB Length"
+F 11 "6mm" H 5295 2185 50  0001 C CNN "Full Length"
+F 12 "1.9mm" H 5295 2185 50  0001 C CNN "Foot Diam"
+F 13 "7mm" H 5295 2185 50  0001 C CNN "Foot Width(ctc)"
+F 14 "4.5mm" H 5295 2185 50  0001 C CNN "Foot Length(ctc)"
+F 15 "2mm" H 5295 2185 50  0001 C CNN "Top to thread underside clearance"
+	1    5295 2185
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:M3MountLugHole M5
+U 1 1 5FDB0953
+P 5315 2670
+F 0 "M5" H 5502 2895 50  0000 C CNN
+F 1 "M3MountLugHole" H 5502 2804 50  0000 C CNN
+F 2 "WingCustomParts:M3-Mount-Lug-Hole" H 5315 2670 50  0001 C CNN
+F 3 "" H 5315 2670 50  0001 C CNN
+F 4 "PCB-69" H 5315 2670 50  0001 C CNN "Model"
+F 5 "M3" H 5315 2670 50  0001 C CNN "Bolt Hole"
+F 6 "6mm" H 5315 2670 50  0001 C CNN "Above PCB Height"
+F 7 "9.3mm" H 5315 2670 50  0001 C CNN "Full Height"
+F 8 "7.8mm" H 5315 2670 50  0001 C CNN "Above PCB Width"
+F 9 "8.6mm" H 5315 2670 50  0001 C CNN "Full Width"
+F 10 "6mm" H 5315 2670 50  0001 C CNN "Above PCB Length"
+F 11 "6mm" H 5315 2670 50  0001 C CNN "Full Length"
+F 12 "1.9mm" H 5315 2670 50  0001 C CNN "Foot Diam"
+F 13 "7mm" H 5315 2670 50  0001 C CNN "Foot Width(ctc)"
+F 14 "4.5mm" H 5315 2670 50  0001 C CNN "Foot Length(ctc)"
+F 15 "2mm" H 5315 2670 50  0001 C CNN "Top to thread underside clearance"
+	1    5315 2670
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:M3MountLugHole M4
+U 1 1 5FDB11B5
+P 5295 3090
+F 0 "M4" H 5482 3315 50  0000 C CNN
+F 1 "M3MountLugHole" H 5482 3224 50  0000 C CNN
+F 2 "WingCustomParts:M3-Mount-Lug-Hole" H 5295 3090 50  0001 C CNN
+F 3 "" H 5295 3090 50  0001 C CNN
+F 4 "PCB-69" H 5295 3090 50  0001 C CNN "Model"
+F 5 "M3" H 5295 3090 50  0001 C CNN "Bolt Hole"
+F 6 "6mm" H 5295 3090 50  0001 C CNN "Above PCB Height"
+F 7 "9.3mm" H 5295 3090 50  0001 C CNN "Full Height"
+F 8 "7.8mm" H 5295 3090 50  0001 C CNN "Above PCB Width"
+F 9 "8.6mm" H 5295 3090 50  0001 C CNN "Full Width"
+F 10 "6mm" H 5295 3090 50  0001 C CNN "Above PCB Length"
+F 11 "6mm" H 5295 3090 50  0001 C CNN "Full Length"
+F 12 "1.9mm" H 5295 3090 50  0001 C CNN "Foot Diam"
+F 13 "7mm" H 5295 3090 50  0001 C CNN "Foot Width(ctc)"
+F 14 "4.5mm" H 5295 3090 50  0001 C CNN "Foot Length(ctc)"
+F 15 "2mm" H 5295 3090 50  0001 C CNN "Top to thread underside clearance"
+	1    5295 3090
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:M3MountLugHole M6
+U 1 1 5FDB15A6
+P 5380 3545
+F 0 "M6" H 5567 3770 50  0000 C CNN
+F 1 "M3MountLugHole" H 5567 3679 50  0000 C CNN
+F 2 "WingCustomParts:M3-Mount-Lug-Hole" H 5380 3545 50  0001 C CNN
+F 3 "" H 5380 3545 50  0001 C CNN
+F 4 "PCB-69" H 5380 3545 50  0001 C CNN "Model"
+F 5 "M3" H 5380 3545 50  0001 C CNN "Bolt Hole"
+F 6 "6mm" H 5380 3545 50  0001 C CNN "Above PCB Height"
+F 7 "9.3mm" H 5380 3545 50  0001 C CNN "Full Height"
+F 8 "7.8mm" H 5380 3545 50  0001 C CNN "Above PCB Width"
+F 9 "8.6mm" H 5380 3545 50  0001 C CNN "Full Width"
+F 10 "6mm" H 5380 3545 50  0001 C CNN "Above PCB Length"
+F 11 "6mm" H 5380 3545 50  0001 C CNN "Full Length"
+F 12 "1.9mm" H 5380 3545 50  0001 C CNN "Foot Diam"
+F 13 "7mm" H 5380 3545 50  0001 C CNN "Foot Width(ctc)"
+F 14 "4.5mm" H 5380 3545 50  0001 C CNN "Foot Length(ctc)"
+F 15 "2mm" H 5380 3545 50  0001 C CNN "Top to thread underside clearance"
+	1    5380 3545
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:M3MountLugHole M7
+U 1 1 5FDB1BA4
+P 5400 3970
+F 0 "M7" H 5587 4195 50  0000 C CNN
+F 1 "M3MountLugHole" H 5587 4104 50  0000 C CNN
+F 2 "WingCustomParts:M3-Mount-Lug-Hole" H 5400 3970 50  0001 C CNN
+F 3 "" H 5400 3970 50  0001 C CNN
+F 4 "PCB-69" H 5400 3970 50  0001 C CNN "Model"
+F 5 "M3" H 5400 3970 50  0001 C CNN "Bolt Hole"
+F 6 "6mm" H 5400 3970 50  0001 C CNN "Above PCB Height"
+F 7 "9.3mm" H 5400 3970 50  0001 C CNN "Full Height"
+F 8 "7.8mm" H 5400 3970 50  0001 C CNN "Above PCB Width"
+F 9 "8.6mm" H 5400 3970 50  0001 C CNN "Full Width"
+F 10 "6mm" H 5400 3970 50  0001 C CNN "Above PCB Length"
+F 11 "6mm" H 5400 3970 50  0001 C CNN "Full Length"
+F 12 "1.9mm" H 5400 3970 50  0001 C CNN "Foot Diam"
+F 13 "7mm" H 5400 3970 50  0001 C CNN "Foot Width(ctc)"
+F 14 "4.5mm" H 5400 3970 50  0001 C CNN "Foot Length(ctc)"
+F 15 "2mm" H 5400 3970 50  0001 C CNN "Top to thread underside clearance"
+	1    5400 3970
+	1    0    0    -1  
+$EndComp
+Text GLabel 5215 1290 0    50   Input ~ 0
+GND
+Text GLabel 5260 1720 0    50   Input ~ 0
+GND
+Text GLabel 5295 2185 0    50   Input ~ 0
+GND
+Text GLabel 5315 2670 0    50   Input ~ 0
+GND
+Text GLabel 5295 3090 0    50   Input ~ 0
+GND
+Text GLabel 5380 3545 0    50   Input ~ 0
+GND
+Text GLabel 5400 3970 0    50   Input ~ 0
+GND
 $EndSCHEMATC
